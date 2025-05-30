@@ -1,5 +1,6 @@
 import sys
-n = int(sys.stdin.readline())
+input = sys.stdin.readline
+n = int(input())
 
 stack=[]
 for i in range(n):
