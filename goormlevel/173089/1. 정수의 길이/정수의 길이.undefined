@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+# UTF-8 encoding when using korean
+
+user_input=str(input())
+res=len(user_input)
+
+print(res)
